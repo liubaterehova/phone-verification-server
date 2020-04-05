@@ -1,0 +1,20 @@
+.idea
+.DS_Store
+
+# System folder for caches, etc.
+.etmp
+.cache
+
+# System folder for VSCode local history plugin
+.history
+.vscode
+
+dist
+node_modules
+twilio.config.json
+
+docs
+reports
+npm-debug.log
+yarn-error.log
+package-lock.json
